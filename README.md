@@ -193,7 +193,7 @@ From this project I learned:
 
 ## 📜 Conclusion
 
-Krishna Royal School Management System helps in managing school activities efficiently. This project reduces manual work and improves data management. The system is user friendly and secure. It can be further enhanced with more automation features.
+Krishna Science School Management System helps in managing school activities efficiently. This project reduces manual work and improves data management. The system is user friendly and secure. It can be further enhanced with more automation features.
 
 ---
 
